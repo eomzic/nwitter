@@ -47,12 +47,6 @@ This project includes
 - public :It is just for favicon or main index html. And some logos.
 - src : It is the main code for the project.
 
-[//]: # (## 💡 Major Implement)
-
-[//]: # ()
-
-[//]: # (- [Move to wiki!]&#40;https://eomzic.github.io/nwitter&#41;)
-
 ## 🤸‍ How To Use?
 
 #### start
