@@ -6,7 +6,7 @@
 </p>
 
 <p align='center'>
-    <a href="https://keinn51.github.io/Twitter_Page_Clone">Published Webpage</a>
+    <a href="https://eomzic.github.io/nwitter">Published Webpage</a>
 </p>
 
 ## 🛠 Using Skill
@@ -47,9 +47,11 @@ This project includes
 - public :It is just for favicon or main index html. And some logos.
 - src : It is the main code for the project.
 
-## 💡 Major Implement
+[//]: # (## 💡 Major Implement)
 
-- [Move to wiki!](https://github.com/keinn51/Twitter_Page_Clone/wiki#3-major-implement)
+[//]: # ()
+
+[//]: # (- [Move to wiki!]&#40;https://eomzic.github.io/nwitter&#41;)
 
 ## 🤸‍ How To Use?
 
